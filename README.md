@@ -1,2 +1,2 @@
-# heart-disease-pipeline1
+# heart-disease-pipeline
 CI/CD Pipeline with GitHub Actions for Duplicate Removal
